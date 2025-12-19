@@ -13,4 +13,4 @@ Trend analysis of app updates shows increased activity over time, emphasizing th
 Overall, this Looker Studio solution enables stakeholders to monitor key performance indicators in real time, identify high-performing segments, and benchmark successful apps. By leveraging these insights, the company can enhance user experience, optimize development priorities, and drive sustainable growth in the competitive mobile app marketplace.  
 
 Screenshot of Dashboard:-  
-![1]()
+![1](https://github.com/Archis-Save/GDS_Google-Play-Store-Analysis/blob/main/GDS_Project.PNG)
