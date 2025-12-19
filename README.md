@@ -1,5 +1,7 @@
 # GDS_Google-Play-Store-Analysis  
 
+Looker Dashboad Link:- https://lookerstudio.google.com/s/lj5ReMZpIDk
+
 The Looker Studio dashboard developed for the App Insights Unlocked project provides a comprehensive and interactive view of the Google Play Store ecosystem, enabling stakeholders to explore app performance across categories, ratings, installs, pricing, and update trends. By transforming raw app data into dynamic visual insights, the dashboard supports data-driven decision-making for app development, marketing, and monetization strategies.
 
 The analysis highlights that user satisfaction and app success are strongly influenced by high ratings, review volume, optimized app size, and regular updates. Categories such as Productivity, Education, and Health consistently demonstrate higher average ratings, indicating strong user trust, while highly competitive categories like Games and Communication lead in installs but require continuous innovation to maintain quality standards.
